@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orion_black">#FF000000</color>
+    <color name="orion_obsidian">#FF020411</color>
+    <color name="orion_surface">#FF0B0B14</color>
+    <color name="orion_blue">#FF2979FF</color>
+    <color name="orion_violet">#FF7C4DFF</color>
+    <color name="orion_cyan">#FF00E5FF</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

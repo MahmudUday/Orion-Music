@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ORION MUSIC</string>
+    <string name="tagline">Your Music. Your Universe.</string>
+    <string name="notification_channel_playback_name">Music Playback</string>
+    <string name="notification_channel_playback_desc">Controls for currently playing music</string>
+    <string name="notification_channel_scan_name">Library Scanner</string>
+    <string name="notification_channel_scan_desc">Background audio library indexing progress</string>
+</resources>

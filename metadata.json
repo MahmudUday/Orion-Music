@@ -1,0 +1,6 @@
+{
+  "name": "ORION MUSIC",
+  "description": "Premium, completely offline Android music player with AMOLED futuristic design, Media3 ExoPlayer, real hardware Equalizer & DSP, synchronized offline lyrics, SAF & MediaStore library scanning, and local playlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
